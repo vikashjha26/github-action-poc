@@ -11,15 +11,15 @@ public class UsersRepository {
 		users = new ArrayList<>();
 		User u1 = new User();
 		u1.setId(1);
-		u1.setName("Priya");
-		u1.setPhoneNo("9876543210");
-		u1.setEmailId("priya.thakur@pinelabs.com");
+		u1.setName("random2");
+		u1.setPhoneNo("1234567");
+		u1.setEmailId("random@random3.com");
 
 		User u2 = new User();
 		u2.setId(2);
-		u2.setName("Preeti");
-		u2.setPhoneNo("9876543210");
-		u2.setEmailId("preeti.thakur@pinelabs.com");
+		u2.setName("random");
+		u2.setPhoneNo("123456");
+		u2.setEmailId("ramdom@random.com");
 
 		users.add(u1);
 		users.add(u2);
